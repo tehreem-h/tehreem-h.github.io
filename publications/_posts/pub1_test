@@ -1,0 +1,26 @@
+---
+title:  "A Quenched and Relatively Isolated Dwarf Galaxy in the Local Volume"
+date:   2026-02-2
+author: "Tehreem N. Hai, Kristen B. W. McQuinn, Yao-Yuan Mao, Roger E. Cohen, David Shih, Erik Tollerud, Joseph A. Breneman, Andrew E. Dolphin, Max J. B. Newman, and Adam Smercina"
+bib: |
+  @ARTICLE{2026ApJ...998...20H,
+       author = {{Hai}, Tehreem N. and {McQuinn}, Kristen B.~W. and {Mao}, Yao-Yuan and {Cohen}, Roger E. and {Shih}, David and {Tollerud}, Erik and {Breneman}, Joseph A. and {Dolphin}, Andrew E. and {Newman}, Max J.~B. and {Smercina}, Adam},
+        title = "{A Quenched and Relatively Isolated Dwarf Galaxy in the Local Volume}",
+      journal = {\apj},
+     keywords = {Galaxy environments, Stellar populations, Dwarf galaxies, Galaxy quenching, HST photometry, Hertzsprung Russell diagram, 2029, 1622, 416, 2040, 756, 725, Astrophysics of Galaxies},
+         year = 2026,
+        month = feb,
+       volume = {998},
+       number = {1},
+          eid = {20},
+        pages = {20},
+          doi = {10.3847/1538-4357/ae30e4},
+archivePrefix = {arXiv},
+       eprint = {2601.14248},
+ primaryClass = {astro-ph.GA},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026ApJ...998...20H},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+links:
+  code: https://ui.adsabs.harvard.edu/abs/2026ApJ...998...20H/abstract
+---
